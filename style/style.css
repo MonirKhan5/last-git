@@ -1,4 +1,8 @@
 .image{
     height: 100px;
     width: 100px;
+    border: 2px solid blue;
+    background-color: tomato;
+    border-radius: 50 px 500px 100px;
+    box-shadow: 5px 5px yellow;
 }
